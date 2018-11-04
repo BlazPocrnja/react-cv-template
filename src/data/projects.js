@@ -1,10 +1,10 @@
 export const projects = {
   sectionTitle: '',
   icon: null,
-  description: 'Projects, i have completed & attended are listed below. To get general information about private project or not-finished projects you can get in touch.',
+  description: 'Projects, I have completed & attended are listed below. To get general information about private project or not-finished projects you can get in touch.',
   categories: [
     {
-      name: 'JotForm',
+      name: 'Work Projects',
       list: [{
         url: 'https:////www.jotform.com/meet-jotform-4/',
         title: 'Easiest Online Form Builder',
@@ -20,7 +20,7 @@ export const projects = {
       }],
     },
     {
-      name: 'YD Software',
+      name: 'Course Projects',
       list: [{
         url: 'http:////mavimasa.ankara.bel.tr',
         title: 'Mavi Masa',

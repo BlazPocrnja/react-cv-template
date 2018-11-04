@@ -53,8 +53,8 @@ export default class CV extends Component {
         />
         <div className="main-wrapper">
           {this.renderAboutMe()}
-          {this.renderExperiencesSection()}
           {this.renderProjectsSection()}
+          {this.renderExperiencesSection()}
           {this.renderTags()}
           {this.renderOpenSourcePart()}
         </div>
