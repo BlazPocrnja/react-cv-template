@@ -1,26 +1,23 @@
 const profile = {
-  name: 'S.Berkay Aydın',
-  title: 'Full Stack Developer',
-  mail: 'sbaydin06@gmail.com',
-  phoneNumber: '+90 (507) 808 4130',
-  website: 'sbaydin.com',
-  linkedin: 'linkedin.com/in/sbaydin',
-  github: 'github.com/sbayd',
+  name: 'Blaz Pocrnja',
+  title: 'Software Developer',
+  mail: 'bpocrnja@gmail.com',
+  phoneNumber: '+1 (780) 228 0002',
+  website: 'blaz.io',
+  linkedin: 'linkedin.com/in/blaz-pocrnja',
+  github: 'github.com/BlazPocrnja',
   imagePath: 'profile.png',
   twitter: null,
   educationDetails: {
     sectionTitle: '',
     list: [
-      { name: 'BSc in CEIT', school: 'Hacettepe University', date: '2013-Present' },
+      { name: 'BSc in CS - Software Specialization', school: 'University of Alberta', date: '2015-Present' },
+      { name: 'BSc in CS - University Transfer', school: 'Grande Prairie Regional College', date: '2013-2015' }
     ]
-  },
-  languages: {
-    sectionTitle: 'Languages',
-    list: [{ name: 'Turkish', level: 'Native' }, { name: 'English', level: 'Professional' }, { name: 'Spanish', level: 'Beginner' }]
   },
   interests: {
     sectionTitle: '',
-    list: ['Pipes', 'Analog Photography', 'Cooking', 'Archery', 'Poems', 'Drums']
+    list: ['Video games', 'Brazilian jiu-jitsu', 'Kickboxing', 'Weightlifting', 'Snowboarding']
   }
 };
 
