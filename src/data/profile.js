@@ -11,8 +11,8 @@ const profile = {
   educationDetails: {
     sectionTitle: '',
     list: [
-      { name: 'BSc in CS - Software Specialization', school: 'University of Alberta', date: '2015-Present' },
-      { name: 'BSc in CS - University Transfer', school: 'Grande Prairie Regional College', date: '2013-2015' }
+      { name: 'BSc in CS - Software Specialization', school: 'University of Alberta', date: '2015 - Present' },
+      { name: 'BSc in CS - University Transfer', school: 'Grande Prairie Regional College', date: '2013 - 2015' }
     ]
   },
   interests: {

@@ -31,6 +31,9 @@ export default class ContactDetails extends Component {
           {this.renderListItem('github', this.props.github, 'fa-github', 'link')}
           {this.renderListItem('twitter', this.props.twitter, 'fa-twitter', 'link')}
         </ul>
+        <a class="btn btn-outline-light" href="resume.pdf" target="_blank">
+          <i class="fa fa-download"/> Download Resume
+        </a>
       </div>
     );
   }
