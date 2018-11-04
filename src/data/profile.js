@@ -3,7 +3,7 @@ const profile = {
   title: 'Software Developer',
   mail: 'bpocrnja@gmail.com',
   phoneNumber: '+1 (780) 228 0002',
-  website: 'blaz.io',
+  website: null,
   linkedin: 'linkedin.com/in/blaz-pocrnja',
   github: 'github.com/BlazPocrnja',
   imagePath: 'profile.png',

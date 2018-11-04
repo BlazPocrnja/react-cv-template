@@ -1,22 +1,21 @@
 export const tags = {
-  sectionTitle: '',
+  sectionTitle: 'Technical Skills',
   icon: null,
   list: [
-    'Javascript',
-    'ReactJS',
-    'ReactNative',
-    'Redux',
-    'Webpack',
-    'Npm/Yarn',
-    'Git',
     'C#',
-    'ASP.NETMVC',
-    'PHP',
-    'SOLID PRINCIPLES',
-    'XAMARIN',
-    'LINQ',
-    'N-TIER ARCHITECTURE',
-    'SOA ARCHITECTURE']
+    'C++',
+    'C',
+    'CSS',
+    'Django',
+    'Git',
+    'HTML',
+    'Java',
+    'Javascript',
+    'Python',
+    'React',
+    'SQL',
+    'Visual Basic',
+    'XML']
 };
 
 export default tags;
