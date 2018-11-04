@@ -29,7 +29,7 @@ export default class CV extends Component {
     return null;
   }
   renderOpenSourcePart() {
-    return (<div>You can create your own CV like this, <a href="https://github.com/sbayd/react-cv-template" target="_blank">access to the source code.</a></div>);
+    return (<div><p> This website is based off a template which can be found <a href="https://github.com/sbayd/react-cv-template" target="_blank">here.</a></p>© 2018 Blaz Pocrnja. All rights reserved.</div>);
   }
   renderAboutMe() {
     const { icon, sectionTitle, description } = this.props.aboutMe;
