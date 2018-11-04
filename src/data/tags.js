@@ -15,7 +15,7 @@ export const tags = {
     'React Redux',
     'SQL',
     'Visual Basic',
-    'Windows Forms'
+    'Windows Forms',
     'WPF',
     'XML']
 };
