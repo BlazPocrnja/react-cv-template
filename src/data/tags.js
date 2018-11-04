@@ -6,15 +6,17 @@ export const tags = {
     'C++',
     'C',
     'CSS',
-    'Django',
+    'Django REST',
     'Git',
     'HTML',
     'Java',
     'Javascript',
     'Python',
-    'React',
+    'React Redux',
     'SQL',
     'Visual Basic',
+    'Windows Forms'
+    'WPF',
     'XML']
 };
 

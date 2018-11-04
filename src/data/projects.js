@@ -8,7 +8,7 @@ export const projects = {
       list: [{
         url: 'http://apache.construction.ualberta.ca/',
         title: 'Job​ ​Hazard​ ​Assessment​ ​Application',
-        description: 'Created a responsive web application to facilitate the viewing, searching, and editing of job hazard risk assessments. (MySQL / Django REST / React / Material UI)'
+        description: 'Created a responsive web application to facilitate the viewing, searching, and editing of job hazard risk assessments. (MySQL / Django REST / React Redux / Material UI)'
       }, {
         url: 'https://www.ualberta.ca/engineering/research/groups/construction-simulation/simphony',
         title: 'Simphony.NET',
