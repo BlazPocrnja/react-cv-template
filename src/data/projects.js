@@ -12,74 +12,49 @@ export const projects = {
       }, {
         url: 'https://www.ualberta.ca/engineering/research/groups/construction-simulation/simphony',
         title: 'Simphony.NET',
-        description: 'Developed statistical chart components for visualizing data output from Monte Carlo simulation. (C# / Windows Forms / WPF / DevExpress / WiX Toolset)'
+        description: 'Developed statistical chart components for visualizing data output from Monte Carlo simulation. (C# / XML / Windows Forms / WPF / DevExpress / WiX Toolset)'
       }, {
         url: 'https://ascelibrary.org/doi/10.1061/9780784480823.015',
         title: 'Navisworks Estimate',
-        description: 'Designed and implemented a Navisworks Manage plugin for automated quantity take-off analysis of 3D models. (C# / Windows Forms / Navisworks API / WiX Toolset)'
+        description: 'Designed and implemented a Navisworks Manage plugin for automated quantity take-off analysis of 3D models. (C# / SQL Server / Windows Forms / Navisworks API / WiX Toolset)'
       }],
     },
     {
       name: 'Course Projects',
       list: [{
-        url: 'http:////mavimasa.ankara.bel.tr',
-        title: 'Mavi Masa',
-        description: 'Ankara Metropolitan Municipality - Mavi Masa Project - Mobile Applications (C# / Oracle / Android SDK - Java / iOS SDK/ Web Services)'
-      },
-      {
-        url: 'http:////giris.odtuteknokent.com.tr',
-        title: 'TKBS',
-        description: 'METU Technopolis Information System ( C# / SQL Server / Xamarin / MongoDB / Web Services)'
-      },
-      {
-        url: 'http:////yfyi2.odtuteknokent.com.tr',
-        title: 'YFYI',
-        description: 'New Business New Ideas(YFYİ) Entrepreneurship Acceleration Program Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////ggj.odtuteknokent.com.tr',
-        title: 'Global Game Jam',
-        description: 'Global Game Jam (METU Technopolis) Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////atom.odtuteknokent.com.tr',
-        title: 'ATOM in Games',
-        description: 'ATOM Pre-Incubation Center (METU Technopolis) Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////sanayipolitikalari.sanayi.gov.tr',
-        title: 'Sanayi Politikalari Portali',
-        description: 'T.C. Industry Ministry Industrial Policies Portal ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////teknojump2.odtuteknokent.com.tr',
-        title: 'TeknoJUMP',
-        description: 'TeknoJUMP Entrepreneurship Acceleration Program Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////bigg.odtuteknokent.com.tr',
-        title: 'TUBITAK BIGG / 1512',
-        description: 'TUBITAK Invidual Young Enterprise(BİGG/1512) Program Management System - METU ( C# / SQL Server / Web Services )'
-      },
-      {
-        url: 'http:////aosb.org.tr',
-        title: 'AOSB',
-        description: 'Ankara Chamber of Industry 1st Organized Industrial Zone Web Portal - Mobile Applications (C#, SQL Server, Android SDK - Java / iOS SDK / Web Services)'
+        url: '',
+        title: 'Smart Buildings',
+        description: 'Used tenants of agile software development to create a mobile VR application for annotating components of a 3D model. (C# / Unity / BIMServer / Django REST)'
       },
       {
         url: '',
-        title: 'AMS App',
-        description: 'Central Bank of the Republic of Turkey (TCMB) Mobile Archive Management System ( Android SDK / Xamarin / Urovo SDK)'
+        title: 'Ryde',
+        description: 'Worked in a team of five to create an easy-to-use ridesharing app for Android. (Java / XML / Android SDK / JUnit / Gson / Google Maps API / Elasticsearch)'
       },
       {
-        url: 'http:////yee.org.tr',
-        title: 'YEE Z-BOOK',
-        description: 'Yunus Emre Institute Z-Book Education Platform (C#/ MongoDB/ SQLite, Web Services)'
+        url: '',
+        title: 'Chat​ ​Server​',
+        description: 'Programmed a responsive UDP server and its accompanying chat client using GNU C Sockets. ​(C / Unix / GNU C Sockets)'
       },
       {
-        url: 'http:////evdekiogretmen.bilfen.com',
-        title: 'Evdeki Ögretmen(Teacher at Home)',
-        description: 'Bilfen Evdeki Ogretmen Online Education System (C# / SQL Server / Web Services)'
+        url: '',
+        title: 'Baby’s​ ​First​ ​Robot',
+        description: 'Built an Arduino based autonomous robot with the ability to wall-follow, parallel park, laser target, seek light sources, and navigate a grid-based obstacle field. ​ (C++ / Arduino)'
+      },
+      {
+        url: '',
+        title: 'Breadboard​ ​Computer',
+        description: 'Constructed a simple computer using integrated and discrete circuit components to calculate, store, retrieve, and display binary data.'
+      },
+      {
+        url: '',
+        title: 'Origami',
+        description: 'Took lead programming and art design roles in a group of three to create a platforming game with smooth and engaging gameplay mechanics. (Game Maker Studio)'
+      },
+      {
+        url: '',
+        title: 'Space Invaders',
+        description: 'Recreated the classic game Space Invaders using paired programming entirely in x86 assembly. ​(Intel x86 assembly)'
       }]
     }
   ]
