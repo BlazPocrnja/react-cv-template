@@ -22,7 +22,7 @@ export default class Sidebar extends Component {
   }
   renderEducationDetails() {
     if (this.props.educationDetails) {
-      return (<EducationDetails list={this.props.educationDetails.list} title={this.props.educationDetails.sectionTitle} />);
+      return (<EducationDetails style={{paddingTop: 0}} list={this.props.educationDetails.list} title={this.props.educationDetails.sectionTitle} />);
     }
     return null;
   }
@@ -37,6 +37,7 @@ export default class Sidebar extends Component {
 
   renderContactDetails() {
     return (<ContactDetails
+      style={{paddingBottom: 0}}
       mail={this.props.mail}
       phoneNumber={this.props.phoneNumber}
       website={this.props.website}
@@ -47,11 +48,23 @@ export default class Sidebar extends Component {
     />);
   }
 
+  renderDownloadButton() {
+    return (
+      <div className='container-block'>
+        <a class="btn btn-outline-light" href="resume.pdf" target="_blank">
+          <i class="fa fa-download"/> Download Resume
+        </a>
+      </div>
+    )
+  }
+
   render() {
     return (
       <div className="sidebar-wrapper">
         {this.renderProfileContainer()}
         {this.renderContactDetails()}
+        {this.renderDownloadButton()}
+        <br/>
         {this.renderEducationDetails()}
         {this.renderLanguages()}
         {this.renderInterests()}

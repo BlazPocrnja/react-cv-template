@@ -13,7 +13,7 @@ export default class EducationDetails extends Component {
   }
   render() {
     return (
-      <div className="education-container container-block">
+      <div className="education-container container-block" style={this.props.style}>
         <h2 className="container-block-title">{this.props.title || 'Education'}</h2>
         {this.props.list.map((item, i) => {
           return this.renderListItem(item, i);
@@ -27,4 +27,3 @@ EducationDetails.propTypes = {
   list: PropTypes.arrayOf(PropTypes.shape()).isRequired,
   title: PropTypes.string.isRequired
 };
-

@@ -22,7 +22,7 @@ export default class ContactDetails extends Component {
   }
   render() {
     return (
-      <div className="contact-container container-block">
+      <div className="contact-container container-block" style={this.props.style}>
         <ul className="list-unstyled contact-list">
           {this.renderListItem('email', this.props.mail, 'fa-envelope', 'email')}
           {this.renderListItem('phone', this.props.phoneNumber, 'fa-phone', 'phone')}
@@ -31,9 +31,6 @@ export default class ContactDetails extends Component {
           {this.renderListItem('github', this.props.github, 'fa-github', 'link')}
           {this.renderListItem('twitter', this.props.twitter, 'fa-twitter', 'link')}
         </ul>
-        <a class="btn btn-outline-light" href="resume.pdf" target="_blank">
-          <i class="fa fa-download"/> Download Resume
-        </a>
       </div>
     );
   }
