@@ -4,9 +4,8 @@ export const aboutMe = {
   description: `
       <p>Hello, my name is Blaz Pocrnja!<p>
       <p>I am a Computer Science student at the University of Alberta.
-      I currently work in the Department of Civil Engineering where I help
-      design and create software for graduate students' research as well as
-      commercial construction companies.<p>
+      I currently work at The Hole School of Construction Engineering where I help
+      create software for commercial, educational, and research purposes.<p>
 
       <p>In my free time I enjoy exercise through Kickboxing,
       Brazilian jiu-jitsu, and weightlifting. I socialize often with friends

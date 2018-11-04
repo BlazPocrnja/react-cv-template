@@ -1,22 +1,22 @@
 export const projects = {
   sectionTitle: '',
   icon: null,
-  description: 'Projects, I have completed & attended are listed below. To get general information about private project or not-finished projects you can get in touch.',
+  description: 'TODO',
   categories: [
     {
       name: 'Work Projects',
       list: [{
-        url: 'https:////www.jotform.com/meet-jotform-4/',
-        title: 'Easiest Online Form Builder',
-        description: 'I am a member of the development team of JotForm\'s Form Builder. I used React / Redux /  Webpack / Socket.io. This is my favorite project.'
+        url: 'http://apache.construction.ualberta.ca/',
+        title: 'Job​ ​Hazard​ ​Assessment​ ​Application',
+        description: 'Created a responsive web application to facilitate the viewing, searching, and editing of job hazard risk assessments. (MySQL / Django REST / React / Material UI)'
       }, {
-        url: 'https:////www.jotform.com/cards/',
-        title: 'JotForm Cards',
-        description: 'JotForm Cards is a next generation web form type. I used React SSR / Vanilla JS / Webpack'
+        url: 'https://www.ualberta.ca/engineering/research/groups/construction-simulation/simphony',
+        title: 'Simphony.NET',
+        description: 'Developed statistical chart components for visualizing data output from Monte Carlo simulation. (C# / Windows Forms / WPF / DevExpress / WiX Toolset)'
       }, {
-        url: 'https:////www.jotform.com//products//pdf-editor//',
-        title: 'PDF Editor',
-        description: 'JotForm\'s PDF Editor allows you to create automated reports for your form submissions. It also lets you create Fillable Forms (Adobe interactive forms). React / Redux / Webpack'
+        url: 'https://ascelibrary.org/doi/10.1061/9780784480823.015',
+        title: 'Navisworks Estimate',
+        description: 'Designed and implemented a Navisworks Manage plugin for automated quantity take-off analysis of 3D models. (C# / Windows Forms / Navisworks API / WiX Toolset)'
       }],
     },
     {
@@ -81,26 +81,6 @@ export const projects = {
         title: 'Evdeki Ögretmen(Teacher at Home)',
         description: 'Bilfen Evdeki Ogretmen Online Education System (C# / SQL Server / Web Services)'
       }]
-    },
-    {
-      name: 'Extracurricular Activities',
-      list: [
-        {
-          url: '',
-          title: 'Mobile Exam System',
-          description: 'A mobile exam project for a company written with Xamarin.Android, Laravel'
-        },
-        {
-          url: 'http:////www.karmer.hacettepe.edu.tr/hutest/',
-          title: 'RIASEC Student Career Profile',
-          description: 'Hacettepe University Career Development Application And Research Center Student Profile Application ( PHP(CI), MySQL, MongoDB)'
-        },
-        {
-          url: '',
-          title: 'Educational Mobile Game Framework',
-          description: 'A personal project for physical interactive mobile game development ( C#, Xamarin, Vuforia , OpenCV, MongoDB)'
-        }
-      ]
     }
   ]
 };
