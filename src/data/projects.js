@@ -1,7 +1,7 @@
 export const projects = {
   sectionTitle: '',
   icon: null,
-  description: 'TODO',
+  description: 'Projects I have worked on or participated in are listed below. If you have any questions or would like to know more you can get in touch.',
   categories: [
     {
       name: 'Work Projects',
