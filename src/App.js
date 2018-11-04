@@ -31,14 +31,14 @@ export default class CV extends Component {
   renderOpenSourcePart() {
     return (<div>You can create your own CV like this, <a href="https://github.com/sbayd/react-cv-template" target="_blank">access to the source code.</a></div>);
   }
-  renderCareerProfile() {
-    const { icon, sectionTitle, description } = this.props.careerProfile;
+  renderAboutMe() {
+    const { icon, sectionTitle, description } = this.props.aboutMe;
     const innerContent = (<div className="summary" dangerouslySetInnerHTML={{ __html: description }} />);
     return (
       <Section
         className="summary-section"
         icon={icon || 'user'}
-        title={sectionTitle || 'Career Profile'}
+        title={sectionTitle || 'About Me'}
       >
         {innerContent}
       </Section>
@@ -52,7 +52,7 @@ export default class CV extends Component {
           {...this.props.profile}
         />
         <div className="main-wrapper">
-          {this.renderCareerProfile()}
+          {this.renderAboutMe()}
           {this.renderExperiencesSection()}
           {this.renderProjectsSection()}
           {this.renderTags()}
@@ -65,7 +65,7 @@ export default class CV extends Component {
 
 CV.propTypes = {
   profile: PropTypes.shape().isRequired,
-  careerProfile: PropTypes.shape().isRequired,
+  aboutMe: PropTypes.shape().isRequired,
   experiences: PropTypes.shape().isRequired,
   projects: PropTypes.shape().isRequired,
   tags: PropTypes.shape().isRequired

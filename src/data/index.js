@@ -1,12 +1,12 @@
 import profile from './profile';
-import careerProfile from './careerProfile';
+import aboutMe from './aboutMe';
 import experiences from './experiences';
 import projects from './projects';
 import tags from './tags';
 
 export const data = {
   profile,
-  careerProfile,
+  aboutMe,
   experiences,
   projects,
   tags
