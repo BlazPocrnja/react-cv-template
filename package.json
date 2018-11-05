@@ -2,7 +2,7 @@
   "name": "react-cv-template",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://BlazPocrnja.github.io/react-cv-template/",
+  "homepage": "https://BlazPocrnja.github.io/resume/",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "file-loader": "2.0.0",
