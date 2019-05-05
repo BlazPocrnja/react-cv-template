@@ -6,10 +6,10 @@ export const experiences = {
     {
       title: 'Junior Programmer',
       company: 'The Hole School of Construction Engineering',
-      description: 'Help design, create, and maintain software for graduate research as well as for commercial construction companies.',
+      description: 'Helped design, create, and maintain software for graduate research as well as for commercial construction companies.',
       companyLink: 'https://www.ualberta.ca/engineering/research/groups/construction-engineering',
       companyShortDetail: 'University of Alberta',
-      date: 'May 2017 - Present'
+      date: 'May 2017 - May 2019'
     }
   ]
 };
