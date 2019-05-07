@@ -8,7 +8,7 @@ export const aboutMe = {
       2 years of professional experience working with The Hole School of Construction Engineering, 
       where I helped create software for commercial, educational, and research purposes.<p>
 
-      <p>My approach to programming has always been about creating extensible and maintable code
+      <p>My approach to programming has always been about creating extensible and maintainable code
       with a focus on high level abstraction in the form of object-oriented programming.
       While I am able to work and learn independently, I strongly prefer to work
       in a collaborative team environment, where I can both learn and grow from others, as well as give back
