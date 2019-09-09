@@ -22,22 +22,22 @@ export const projects = {
     {
       name: 'Course Projects',
       list: [{
-        url: '',
+        url: 'https://youtu.be/SMg-IeX1Zuw',
         title: 'Smart Buildings',
         description: 'Used tenants of agile software development to create a mobile VR application for annotating components of a 3D model. (C# / Unity / BIMServer / Django REST)'
       },
       {
-        url: '',
+        url: 'https://github.com/CMPUT301F16T08/HurryCaneBlurryName',
         title: 'Ryde',
         description: 'Worked in a team of five to create an easy-to-use ridesharing app for Android. (Java / XML / Android SDK / JUnit / Gson / Google Maps API / Elasticsearch)'
       },
       {
-        url: '',
+        url: 'https://github.com/BlazPocrnja/CMPUT379Assignment2',
         title: 'Chat​ ​Server​',
         description: 'Programmed a responsive UDP server and its accompanying chat client using GNU C Sockets. ​(C / Unix / GNU C Sockets)'
       },
       {
-        url: '',
+        url: 'https://youtu.be/5GBYgJaegGU',
         title: 'Baby’s​ ​First​ ​Robot',
         description: 'Built an Arduino based autonomous robot with the ability to wall-follow, parallel park, laser target, seek light sources, and navigate a grid-based obstacle field. ​ (C++ / Arduino)'
       },
@@ -47,7 +47,7 @@ export const projects = {
         description: 'Constructed a simple computer using integrated and discrete circuit components to calculate, store, retrieve, and display binary data.'
       },
       {
-        url: '',
+        url: 'https://drive.google.com/file/d/0B_35Q7wBq_KfMDQ4UUdfY1E2bUk/view',
         title: 'Origami',
         description: 'Took lead programming and art design roles in a group of three to create a platforming game with smooth and engaging gameplay mechanics. (Game Maker Studio)'
       },

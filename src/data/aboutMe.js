@@ -18,7 +18,8 @@ export const aboutMe = {
       <a href="https://github.com/BlazPocrnja" target="_blank">Github</a> and
       <a href="https://www.linkedin.com/in/blaz-pocrnja/" target=_blank>LinkedIn</a>.
       Take a look at my <a href="/resume/resume.pdf" target="_blank">resume</a>
-      and feel free to contact me.</p>
+      and feel free to contact me through my <a href="mailto:bpocrnja@gmail.com">email</a>
+      or by phone at +1 (780) 228-0002.</p>
     `
 };
 

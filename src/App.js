@@ -29,7 +29,7 @@ export default class CV extends Component {
     return null;
   }
   renderOpenSourcePart() {
-    return (<div><p> This website is based off a template which can be found <a href="https://github.com/sbayd/react-cv-template" target="_blank">here.</a></p>© 2018 Blaz Pocrnja. All rights reserved.</div>);
+    return (<div><p> This website is based off a template which can be found <a href="https://github.com/sbayd/react-cv-template" target="_blank">here.</a></p>© 2019 Blaz Pocrnja. All rights reserved.</div>);
   }
   renderAboutMe() {
     const { icon, sectionTitle, description } = this.props.aboutMe;
@@ -53,8 +53,8 @@ export default class CV extends Component {
         />
         <div className="main-wrapper">
           {this.renderAboutMe()}
-          {this.renderProjectsSection()}
           {this.renderExperiencesSection()}
+          {this.renderProjectsSection()}
           {this.renderTags()}
           {this.renderOpenSourcePart()}
         </div>

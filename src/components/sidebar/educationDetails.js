@@ -5,9 +5,10 @@ export default class EducationDetails extends Component {
   renderListItem(item, i) {
     return (
       <div className="item" key={`education_item_${i}`}>
-        <h4 className="degree">{item.degree}</h4>
-        <h5 className="meta">{item.school}</h5>
+        <h4 className="degree">{item.school}</h4>
+        <div className="list-unstyled interests-list">{item.degree}</div>
         <div className="time">{item.date}</div>
+        <div className="time">{item.gpa}</div>
       </div>
     );
   }

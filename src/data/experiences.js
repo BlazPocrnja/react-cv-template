@@ -4,7 +4,7 @@ export const experiences = {
   description: null,
   list: [
     {
-      title: 'Junior Programmer',
+      title: 'Software Developer',
       company: 'The Hole School of Construction Engineering',
       description: 'Helped design, create, and maintain software for graduate research as well as for commercial construction companies.',
       companyLink: 'https://www.ualberta.ca/engineering/research/groups/construction-engineering',
