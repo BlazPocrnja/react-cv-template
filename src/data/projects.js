@@ -37,6 +37,11 @@ export const projects = {
         description: 'Programmed a responsive UDP server and its accompanying chat client using GNU C Sockets. ​(C / Unix / GNU C Sockets)'
       },
       {
+        url: '',
+        title: 'TotaliTerranBot',
+        description: 'On a team of four, modified the StarCraft AI, UAlbertaBot, to improve its Terran class combat capabilities and compete with other students’ bots. (C++ / UAlbertaBot)'
+      },
+      {
         url: 'https://youtu.be/5GBYgJaegGU',
         title: 'Baby’s​ ​First​ ​Robot',
         description: 'Built an Arduino based autonomous robot with the ability to wall-follow, parallel park, laser target, seek light sources, and navigate a grid-based obstacle field. ​ (C++ / Arduino)'
