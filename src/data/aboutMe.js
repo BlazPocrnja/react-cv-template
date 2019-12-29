@@ -2,17 +2,16 @@ export const aboutMe = {
   sectionTitle: 'About Me',
   icon: null,
   description: `
-      <p>Hello, my name is Blaz Pocrnja!<p>
-      <p>I am a recent graduate from the University of Alberta. 
-      I have 6 years of computing science studies under my belt, with an additional
-      2 years of professional experience working with The Hole School of Construction Engineering, 
-      where I helped create software for commercial, educational, and research purposes.<p>
+      <p>My career as a software developer started in 2013, where I decided to major in the computer sciences.
+      I always had an interest in problem solving and finding out how things worked, and with my love of technology
+      (namely video games) the decision to pursue CS became a no-brainer. In 2017, I interned at the University of Alberta's
+      Hole School of Construction where I learned to work with others in a more professional capacity. I graduated in the spring of 2019,
+      with a BSc in Computer Science with a Specialization in Software Practice. I currently work at EllisDon's PME office, 
+      writing software for safety management.
+      <p>
 
-      <p>My approach to programming has always been about creating extensible and maintainable code
-      with a focus on high level abstraction in the form of object-oriented programming.
-      While I am able to work and learn independently, I strongly prefer to work
-      in a collaborative team environment, where I can both learn and grow from others, as well as give back
-      any of my own knowledge and experience that may be of use.</p>
+      <p>I enjoy working in a collaborative team environment, where I can both learn and grow from others,
+      as well as give back any of my own knowledge and experience that may be of use.</p>
 
       <p>I can be found on
       <a href="https://github.com/BlazPocrnja" target="_blank">Github</a> and

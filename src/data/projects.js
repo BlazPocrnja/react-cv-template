@@ -5,7 +5,12 @@ export const projects = {
   categories: [
     {
       name: 'Work Projects',
-      list: [{
+      list: [
+      {
+        url: 'https://ethos.ellisdon.com/',
+        title: 'Ethos',
+        description: 'Currently engineering a web application for managing weld quality through the use of semi-automated RFI tracking and data visualization. (MySQL / Node.js / React Redux / Ant Design)'
+      }, {
         url: 'http://apache.construction.ualberta.ca/',
         title: 'Job​ ​Hazard​ ​Assessment​ ​Application',
         description: 'Created a responsive web application to facilitate the viewing, searching, and editing of job hazard risk assessments. (MySQL / Django REST / React Redux / Material UI)'
@@ -50,7 +55,11 @@ export const projects = {
         url: '',
         title: 'Breadboard​ ​Computer',
         description: 'Constructed a simple computer using integrated and discrete circuit components to calculate, store, retrieve, and display binary data.'
-      },
+      }]
+    },
+    {
+      name: 'Personal Projects',
+      list: [
       {
         url: 'https://drive.google.com/file/d/0B_35Q7wBq_KfMDQ4UUdfY1E2bUk/view',
         title: 'Origami',

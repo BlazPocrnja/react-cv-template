@@ -6,7 +6,7 @@ const profile = {
   website: null,
   linkedin: 'linkedin.com/in/blaz-pocrnja',
   github: 'github.com/BlazPocrnja',
-  imagePath: 'profile.png',
+  imagePath: 'profile.jpg',
   twitter: null,
   educationDetails: {
     sectionTitle: '',
@@ -17,7 +17,7 @@ const profile = {
   },
   interests: {
     sectionTitle: '',
-    list: ['Travel','Video games', 'Brazilian jiu-jitsu', 'Kickboxing', 'Weightlifting', 'Snowboarding']
+    list: ['Travel','Video games', 'Language learning', 'Kickboxing', 'Weightlifting', 'Snowboarding']
   }
 };
 
