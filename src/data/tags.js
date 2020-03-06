@@ -21,6 +21,7 @@ export const tags = {
     'Material UI',
     'Maven',
     'Microsoft Access',
+    'Microsoft Azure',
     'Microsoft SQL Server',
     'MySQL',
     'Node.js',

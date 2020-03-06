@@ -7,9 +7,9 @@ export const projects = {
       name: 'Work Projects',
       list: [
       {
-        url: 'https://ethos.ellisdon.com/',
+        url: 'https://www.coldblue.io/',
         title: 'Ethos',
-        description: 'Currently engineering a web application for managing weld quality through the use of semi-automated RFI tracking and data visualization. (MySQL / Node.js / React Redux / Ant Design)'
+        description: 'Currently engineering a web application for managing weld quality through the use of semi-automated RFI tracking and data visualization. (Microsoft Azure / MySQL / Node.js / React Redux / Ant Design)'
       }, {
         url: 'http://apache.construction.ualberta.ca/',
         title: 'Job​ ​Hazard​ ​Assessment​ ​Application',
