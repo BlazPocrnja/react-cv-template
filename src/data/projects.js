@@ -9,11 +9,11 @@ export const projects = {
       {
         url: 'https://www.coldblue.io/',
         title: 'Ethos',
-        description: 'Currently engineering a web application for managing weld quality through the use of semi-automated RFI tracking and data visualization. (Microsoft Azure / MySQL / Node.js / React Redux / Ant Design)'
+        description: 'Currently engineering a web application for managing weld quality through the use of semi-automated RFI tracking and data visualization. (Microsoft Azure / MySQL / Node.js / React / Redux / Ant Design)'
       }, {
         url: 'http://apache.construction.ualberta.ca/',
         title: 'Job​ ​Hazard​ ​Assessment​ ​Application',
-        description: 'Created a responsive web application to facilitate the viewing, searching, and editing of job hazard risk assessments. (MySQL / Django REST / React Redux / Material UI)'
+        description: 'Created a responsive web application to facilitate the viewing, searching, and editing of job hazard risk assessments. (MySQL / Django REST / React / Redux / Material UI)'
       }, {
         url: 'https://www.ualberta.ca/engineering/research/groups/construction-simulation/simphony',
         title: 'Simphony.NET',
@@ -60,6 +60,11 @@ export const projects = {
     {
       name: 'Personal Projects',
       list: [
+      {
+        url: 'https://blazpocrnja.github.io/covid-19/',
+        title: 'COVID-19 Linear Regression Model',
+        description: 'React web application using linear regression to plot trendlines for daily case growth. (React, amCharts, Recharts)'
+      },
       {
         url: 'https://drive.google.com/file/d/0B_35Q7wBq_KfMDQ4UUdfY1E2bUk/view',
         title: 'Origami',

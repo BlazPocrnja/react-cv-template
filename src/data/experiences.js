@@ -6,7 +6,7 @@ export const experiences = {
     {
       title: 'Full Stack Developer',
       company: 'EllisDon',
-      description: 'Develop web applications for the management of quality in heavy industrial construction processes.',
+      description: 'Developing web applications for the management of quality in heavy industrial construction processes.',
       companyLink: 'http://www.pmeinc.ca/',
       companyShortDetail: 'PME',
       date: 'October 2019 - Present'

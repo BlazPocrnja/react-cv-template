@@ -7,7 +7,7 @@ export const aboutMe = {
       (namely video games) the decision to pursue CS became a no-brainer. In 2017, I interned at the University of Alberta's
       Hole School of Construction where I learned to work with others in a more professional capacity. I graduated in the spring of 2019,
       with a BSc in Computer Science with a Specialization in Software Practice. I currently work at EllisDon's PME office, 
-      writing software for safety management.
+      writing software for quality management.
       <p>
 
       <p>I enjoy working in a collaborative team environment, where I can both learn and grow from others,
